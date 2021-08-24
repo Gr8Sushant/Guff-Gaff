@@ -5,9 +5,9 @@ const App = () => {
   return(
     <ChatEngine
       height = "100vh"
-      projectID = ""
-      userName = ""
-      userSecret = ""
+      projectID = "enter_your_own_id"
+      userName = "enter_your_own_uname"
+      userSecret = "enter_your_own_pw"
     />
   )
 }
